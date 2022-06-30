@@ -1,0 +1,25 @@
+.titleholder {
+    text-align: center;
+    background-color:blue;
+    color:white
+}
+.searchheader{
+    float:left;
+    width:20px;
+    padding:10px;
+    font-size: 17px;
+    border: lpx solid grey;
+    border-left: none;
+    cursor:pointer;
+    font-weight: bold;
+    font-size: 30px;
+}
+#form{   
+
+}
+input{
+    font:16px;
+    height:100%;
+    width: 100px;
+    padding:6px 10px;
+}
